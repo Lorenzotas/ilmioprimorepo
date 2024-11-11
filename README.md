@@ -7,3 +7,4 @@ ho finito le idee
 ## fermate della metro di Milano
 ### metro gialla
 - comasina
+- affori FN
