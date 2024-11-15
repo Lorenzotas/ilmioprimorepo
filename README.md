@@ -8,3 +8,4 @@ ho finito le idee
 ### metro gialla
 - comasina
 - affori FN
+- affori centro
