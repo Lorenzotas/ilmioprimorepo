@@ -17,3 +17,4 @@ ho finito le idee
 - duomo
 - missori
 - crocetta
+- porta romana
