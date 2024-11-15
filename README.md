@@ -15,3 +15,4 @@ ho finito le idee
 - turati
 - montenapoleone
 - duomo
+- missori
