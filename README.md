@@ -11,3 +11,4 @@ ho finito le idee
 - affori centro
 - dergano
 - centrale
+- repubblica
