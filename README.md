@@ -9,3 +9,4 @@ ho finito le idee
 - comasina
 - affori FN
 - affori centro
+- dergano
