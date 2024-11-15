@@ -12,3 +12,4 @@ ho finito le idee
 - dergano
 - centrale
 - repubblica
+- turati
