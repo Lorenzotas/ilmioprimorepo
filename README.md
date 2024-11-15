@@ -16,3 +16,4 @@ ho finito le idee
 - montenapoleone
 - duomo
 - missori
+- crocetta
