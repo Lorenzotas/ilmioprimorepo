@@ -10,3 +10,4 @@ ho finito le idee
 - affori FN
 - affori centro
 - dergano
+- centrale
