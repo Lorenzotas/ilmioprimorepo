@@ -14,3 +14,4 @@ ho finito le idee
 - repubblica
 - turati
 - montenapoleone
+- duomo
