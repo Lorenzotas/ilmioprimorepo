@@ -9,6 +9,9 @@ ho finito le idee
 - comasina
 - affori FN
 - affori centro
+- maciachini
+- zara
+- sondrio
 - dergano
 - centrale
 - repubblica
