@@ -11,3 +11,5 @@ ho finito le idee
 - affori centro
 - dergano
 - centrale
+### metro verde
+- caiazzo
