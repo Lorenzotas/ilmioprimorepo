@@ -21,4 +21,4 @@ ho finito le idee
 - missori
 - crocetta
 - porta romana
-- lodi t.i.b.b.
+- lodi t.i.b.b
