@@ -15,3 +15,5 @@ ho finito le idee
 - turati
 - montenapoleone
 - duomo
+### metro rossa
+- san babila
